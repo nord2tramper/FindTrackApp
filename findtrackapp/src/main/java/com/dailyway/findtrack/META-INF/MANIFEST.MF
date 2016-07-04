@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
 Class-Path: commons-imaging-1.0-SNAPSHOT.jar
-Main-Class: FindTrackApp
+Main-Class: com.dailyway.findtrack.FindTrackApp
 
