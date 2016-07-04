@@ -73,7 +73,7 @@ public class GeoPoint {
     }
 
     //parse one coordinate
-    private double parseStringCoord(String pVal){
+    protected double parseStringCoord(String pVal){
         String vSign = "1";
         char   cSign;
         String vDeg = "0";
